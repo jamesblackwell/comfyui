@@ -13,5 +13,10 @@ storage_map["stable_diffusion/models/style_models"]="/opt/ComfyUI/models/style_m
 storage_map["stable_diffusion/models/unet"]="/opt/ComfyUI/models/unet"
 storage_map["stable_diffusion/models/vae"]="/opt/ComfyUI/models/vae"
 storage_map["stable_diffusion/models/vae_approx"]="/opt/ComfyUI/models/upscale_models"
+# New mappings
+storage_map["stable_diffusion/models/clip_vision"]="/opt/ComfyUI/models/clip_vision"
+storage_map["stable_diffusion/models/ipadapter"]="/opt/ComfyUI/models/ipadapter"
+storage_map["stable_diffusion/models/facerestore"]="/opt/ComfyUI/models/facerestore"
+storage_map["stable_diffusion/models/insightface"]="/opt/ComfyUI/models/insightface"
 
 # Add more mappings for other repository directories as needed
