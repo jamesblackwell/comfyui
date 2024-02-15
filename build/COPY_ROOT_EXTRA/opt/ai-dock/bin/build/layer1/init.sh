@@ -27,6 +27,9 @@ CHECKPOINT_MODELS=(
 
     # realistic stock photo
     # "https://civitai.com/api/download/models/294470?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+
+    #Epic realism xl 1
+    # https://civitai.com/api/download/models/312202?type=Model&format=SafeTensor&size=full&fp=fp16
 )
 
 CLIP_VISION_MODELS=(
